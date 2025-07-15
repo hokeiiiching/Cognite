@@ -1,18 +1,18 @@
-# Cognite
+# Retriev 
 
-## 1. The Vision: Why Cognite?
+## 1. The Vision: Why Retriev?
 
 In the age of AI, students have infinite information but face a crisis of learning. LLMs like ChatGPT are seductive shortcuts, often used for rote summarization or generating answers without fostering genuine understanding. This creates an "AI crutch," hampering critical thinking and long-term knowledge retention.
 
 Simultaneously, decades of cognitive science have given us a clear blueprint for effective learning: Spaced Repetition, Active Retrieval, Interleaving, and more. Yet, these methods are often cumbersome to apply manually and feel disconnected from a student's actual study materials.
 
-**Cognite is the bridge.** It is an AI-native platform that doesn't just give you answers; it actively embeds proven learning science into your study workflow. It transforms your passive course materials into an interactive, intelligent learning experience that teaches you how to learn effectively.
+**Retriev is the bridge.** It is an AI-native platform that doesn't just give you answers; it actively embeds proven learning science into your study workflow. It transforms your passive course materials into an interactive, intelligent learning experience that teaches you how to learn effectively.
 
 ---
 
 ## 2. Core Features: The Student's Toolkit
 
-Cognite is built around six core pillars, each designed to tackle a specific aspect of deep learning.
+Retriev is built around six core pillars, each designed to tackle a specific aspect of deep learning.
 
 ### 🧠 1. Smart Study Planner  
 **Principle:** Spaced Repetition & Interleaving  
